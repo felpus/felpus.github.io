@@ -1,28 +1,13 @@
 {
-    "name": "Gaurav Ghati",
-    "phone": "+91 9067365762",
-    "mail": "gauravghati225@gmail.com",
+    "name": "Filip Unander",
 
-    "bio": "MY BIO",
-    "fun": "FUN STATEMENT",
-
-    "github": "https://github.com/gauravghati/",
+    "github": "https://github.com/felpus/",
     "twitter": "https://twitter.com/GauravGhati/",
-    "linkedin": "http://linkedin.com/in/gauravghati/",
+    "linkedin": "https://www.linkedin.com/in/filip-unander-4b75b3194/",
 
     "aboutme": {
-        "para1": "This is Paragraph 1",
-        "para2": "This is Paragraph 2"
-    },
-
-    "volunteer": {
-        "tfi": {
-            "heading": "Teach For India",
-            "description": "description of TFI"
-        },
-        "pisb": {
-            "heading": "PICT IEEE Student Branch",
-            "description": "description of PISB"
-        }
+        "para1": "Tidligere student ved UiA campus kristiansand der jeg studerte IT og informasjonssystemer.",
+        "para2": "Forhåpentligvis snart ikke bare en tidligere student."
+    }
     }
 }
